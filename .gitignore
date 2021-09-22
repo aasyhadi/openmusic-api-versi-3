@@ -1,0 +1,4 @@
+node_modules
+songs-api-webserver.pem
+.env
+.prod.env
